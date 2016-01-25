@@ -1,4 +1,4 @@
-# xm_LSH_user_item
+# LSH_user_item
 
 python LSH_user_item.py
 
